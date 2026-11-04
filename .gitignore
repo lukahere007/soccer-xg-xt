@@ -1,0 +1,9 @@
+# raw StatsBomb downloads (re-create with scripts/fetch_data.py)
+data/raw/
+__pycache__/
+*.py[cod]
+*.egg-info/
+.pytest_cache/
+.venv/
+.ipynb_checkpoints/
+.DS_Store

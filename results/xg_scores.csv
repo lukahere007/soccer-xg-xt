@@ -1,0 +1,6 @@
+model,log_loss,brier,roc_auc,calib_slope,sum_xg
+Base rate (constant),0.3114,0.0850,,,685.9918
+"Geometry logistic (distance, angle, body part)",0.2734,0.0768,0.7529,1.0005,685.6294
+Freeze-frame logistic GAM (ours),0.2580,0.0727,0.7915,0.9870,685.5867
+Gradient boosting (ours),0.2582,0.0725,0.7870,0.9448,672.6190
+StatsBomb xG (reference),0.2494,0.0697,0.8056,1.0608,683.3546
