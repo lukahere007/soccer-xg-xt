@@ -4,6 +4,8 @@
 ![Python](https://img.shields.io/badge/python-3.10%2B-blue)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 
+<a href="https://statsbomb.com"><img src="img/statsbomb-logo.png" alt="StatsBomb" width="240"></a>
+
 > **Data: StatsBomb Open Data.** Event data provided by [StatsBomb](https://statsbomb.com) via
 > [statsbomb/open-data](https://github.com/statsbomb/open-data).
 
